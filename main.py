@@ -3,7 +3,7 @@
 """
 Created on Thu Jan 23 12:16:21 2020
 
-@author: akylwnnfetzmede
+@author: kamogelo selowa
 """
 
 #=============================[LIBRARIES]=====================================
@@ -14,9 +14,9 @@ import sqlite3
 import tkinter.ttk as ttk
 
 #=============================[GLOBAL VARS]=====================================
-author = 'Akylwnn Fetzmede'
-title = 'Zimbabwe Airtime Generator'
-contact = "hyltechsys@gmail.com"
+author = 'selowa kamogelo'
+title = ' Airtime Generator'
+contact = "kamoselowa@gmail.com"
 version = '1.0'
 
 #==============================[APP WINDOW]====================================
