@@ -1,0 +1,10 @@
+using system;
+class HelloWorld
+{
+
+}
+    static void()
+    {
+        System.Console.WriteLine('hello world');
+    }    
+}
